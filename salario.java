@@ -24,7 +24,7 @@ public class salario {
 		
 		System.out.println("o valor do salário liquido é de: " + salarioliq);
 		
-		
+		ler.close();
 
 	}
 
